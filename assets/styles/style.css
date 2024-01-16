@@ -51,7 +51,7 @@ main {
 .more {
   margin: 20px;
   flex-basis: 45%;
-  background-color: rgb(182, 165, 53);
+  background-color: rgba(242, 174, 15, 0.652);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -60,7 +60,7 @@ main {
 .more-3 {
   margin: 20px;
   flex-grow: 1;
-  background-color: rgb(182, 165, 53);
+  background-color: rgba(242, 174, 15, 0.652);
   display: flex;
   align-items: center;
   justify-content: center;
