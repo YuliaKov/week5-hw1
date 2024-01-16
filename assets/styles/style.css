@@ -13,10 +13,6 @@
   flex-direction: column;
 }
 
-footer {
-  border: 1px solid black;
-}
-
 header {
   flex-basis: 10%;
   display: flex;
